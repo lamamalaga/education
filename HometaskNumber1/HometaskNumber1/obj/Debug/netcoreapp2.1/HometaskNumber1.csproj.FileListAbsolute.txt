@@ -1,0 +1,11 @@
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\bin\Debug\netcoreapp2.1\HometaskNumber1.deps.json
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\bin\Debug\netcoreapp2.1\HometaskNumber1.runtimeconfig.json
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\bin\Debug\netcoreapp2.1\HometaskNumber1.runtimeconfig.dev.json
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\bin\Debug\netcoreapp2.1\HometaskNumber1.dll
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\bin\Debug\netcoreapp2.1\HometaskNumber1.pdb
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.AssemblyInfo.cs
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.dll
+C:\Users\пк\source\repos\HometaskNumber1\HometaskNumber1\obj\Debug\netcoreapp2.1\HometaskNumber1.pdb

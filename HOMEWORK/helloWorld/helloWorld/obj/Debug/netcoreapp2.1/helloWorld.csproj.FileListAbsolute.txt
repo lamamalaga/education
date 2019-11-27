@@ -1,0 +1,11 @@
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.csprojAssemblyReference.cache
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.csproj.CoreCompileInputs.cache
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.AssemblyInfoInputs.cache
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.AssemblyInfo.cs
+C:\gitt\HOMEWORK\helloWorld\helloWorld\bin\Debug\netcoreapp2.1\helloWorld.deps.json
+C:\gitt\HOMEWORK\helloWorld\helloWorld\bin\Debug\netcoreapp2.1\helloWorld.runtimeconfig.json
+C:\gitt\HOMEWORK\helloWorld\helloWorld\bin\Debug\netcoreapp2.1\helloWorld.runtimeconfig.dev.json
+C:\gitt\HOMEWORK\helloWorld\helloWorld\bin\Debug\netcoreapp2.1\helloWorld.dll
+C:\gitt\HOMEWORK\helloWorld\helloWorld\bin\Debug\netcoreapp2.1\helloWorld.pdb
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.dll
+C:\gitt\HOMEWORK\helloWorld\helloWorld\obj\Debug\netcoreapp2.1\helloWorld.pdb
